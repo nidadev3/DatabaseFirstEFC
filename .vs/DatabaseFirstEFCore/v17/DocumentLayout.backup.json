@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|c:\\users\\user\\documents\\databasefirstapproach\\databasefirstefcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|c:\\users\\user\\documents\\databasefirstapproach\\databasefirstefcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|c:\\users\\user\\documents\\databasefirstapproach\\databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|c:\\users\\user\\documents\\databasefirstapproach\\databasefirstefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|c:\\users\\user\\documents\\databasefirstapproach\\databasefirstefcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|solutionrelative:models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|c:\\users\\user\\documents\\databasefirstapproach\\databasefirstefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D27358E-24DE-4F4A-A490-E8A5257C9281}|DatabaseFirstEFCore.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T05:10:07.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T05:07:04.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T04:27:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T04:57:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T04:34:40.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Models\\CodeFirstDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CodeFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DatabaseFirstApproach\\DatabaseFirstEFCore\\Models\\CodeFirstDbContext.cs",
+              "RelativeToolTip": "Models\\CodeFirstDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T04:34:24.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
